@@ -65,7 +65,7 @@ The implementation of RRInf and baseline methods can be found at `src/influence.
 tu2025rrinf,
 title={{RRI}nf: Efficient Influence Function Estimation via Ridge Regression for Large Language Models and Text-to-Image Diffusion Models},
 author={Zhuozhuo Tu and Cheng Chen and Yuxuan Du},
-booktitle={Proceedings of EMNLP},
+booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
 year={2025}
 }
 ```
